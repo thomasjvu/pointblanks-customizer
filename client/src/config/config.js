@@ -3,7 +3,7 @@ const config = {
     backendUrl: "http://localhost:8888/api/v1/dalle",
   },
   production: {
-    backendUrl: "https://pointblanks-demo.onrender.com/api/v1/dalle",
+    backendUrl: "https://pointblanks-product-configurator.onrender.com/api/v1/dalle",
   },
 };
 
