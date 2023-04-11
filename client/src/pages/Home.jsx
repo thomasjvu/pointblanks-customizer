@@ -29,7 +29,7 @@ const Home = () => {
                         {...headContainerAnimation}
                     >
                         <motion.div {...headTextAnimation}>
-                            <h1 className="head-text">Point Blanks </h1>
+                            <h1 className="head-text">Point Blanks</h1>
                         </motion.div>
                         <motion.div
                             {...headContentAnimation}
